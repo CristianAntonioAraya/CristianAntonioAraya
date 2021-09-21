@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristian Arya</h1>
+<h1 align="center">Hi 👋, I'm Cristian Araya</h1>
 <h3 align="center">A passionate frontend developer from La Serena,Chile</h3>
 
 - 🌱 I’m currently learning **ReactJs and javascript**
