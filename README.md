@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Cristian Araya</h1>
 <h3 align="center">A passionate frontend developer from La Serena,Chile</h3>
 
-- 🌱 I’m currently learning **ReactJs and javascript**
+- 🌱 I’m currently learning **Next.Js**
 
-- 💬 Ask me about **anything related to javascript and videogames**
+- 💬 Ask me about **anything related to Computers and videogames**
 
 - 📫 How to reach me **dev.arayacristian@gmail.com**
 
