@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian Araya</h1>
-<h3 align="center">A passionate frontend developer from La Serena,Chile</h3>
+<h3 align="center">A passionate Back-End developer from La Serena,Chile</h3>
 
-- 🌱 I’m currently learning **Next.Js**
+- 🌱 I’m currently learning **Nest.Js**
 
 - 💬 Ask me about **anything related to Computers and videogames**
 
